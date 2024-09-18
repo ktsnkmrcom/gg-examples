@@ -25,3 +25,5 @@ go install github.com/fogleman/gg
 go install github.com/fogleman/gg@latest
 
 これらの方法ではConic gradientは含まれていないので、"gradient.go"のみアップデートするとよいと思います。
+
+---
